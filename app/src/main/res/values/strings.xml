@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodYape</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="txt_description">Descripción</string>
+    <string name="txt_ingredients">Ingredientes</string>
+    <string name="txt_preparation">Preparación</string>
+    <string name="txt_see_ubication">Ver ubicación</string>
+    <string name="txt_input_text_parameter">Ingrese parametro de busqueda</string>
+</resources>
